@@ -59,9 +59,9 @@ A dedicated form that displays an accurate estimated painting time before it eve
 
 | Action | Default Hotkey | Description |
 | :--- | :--- | :--- |
-| **CanvasOverlayToggle** | `F8` | Toggles the canvas selection overlay to define the painting area. |
-| **PaletteOverlayToggle** | `F9` | Toggles the palette selection overlay to define the color palette area. |
-| **Start/Pause** | `F10` | Starts or pauses the painting process. |
+| **CanvasOverlayToggle** | `F9` | Toggles the canvas selection overlay to define the painting area. |
+| **PaletteOverlayToggle** | `F10` | Toggles the palette selection overlay to define the color palette area. |
+| **Start/Pause** | `F11` | Starts or pauses the painting process. |
 | **Stop** | `Escape` | Immediately stops the painting process. |
 
 Hotkeys are configurable in the settings window.
