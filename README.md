@@ -8,12 +8,28 @@ RustForge takes any image, automatically converts it to the closest Rust color p
 
 ---
 
+## Premium Access
+
+Premium unlocks advanced features, helps fund ongoing development, and gives you early access to new tools before the general public.
+
+**💎 How to get Premium**: Donate ANY amount via [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev), and you’ll receive Premium access as a thank-you.
+
+### Premium Features
+
+* **VoidWeave Algorithm** – The most advanced painting method for stunning, detailed, high-fidelity images. Scans the image, and blends pixels as it paints.
+
+* **Resume Painting on Click**: Press the Resume On Click Hotkey: **F5** and click a point on the canvas with your image loaded, and the paint session will resume from that row with the correct palette color. No more redoing entire paintings if you die, disconnect, or crash mid-paint.
+
+* **Session Save** – Save your painting progress and resume later without restarting. This is useful if you need to reboot, or something happens where you need to close the game or step away for extended periods.
+
+* **Session Load** – Quickly load a saved session and continue painting exactly where you left off.
+
 ## Features
 
 ### Multiple Painting Methods
 Choose from several methods to transfer your image to the canvas, each with a unique style:
 
-* **VoidWeave Algorithm**: The default and most advanced method. It's designed for complex, detailed images and provides the most accurate color representation and highest quality final image.
+* **VoidWeave Algorithm(Premium)**: The default and most advanced method. It's designed for complex, detailed images and provides the most accurate color representation and highest quality final image.
 * **Scanline**: A methodical, line-by-line painting method.
 * **Crayon Eater**: A distinct painting style that adds character to your final image.
 
@@ -28,6 +44,7 @@ Prepare your images with a variety of built-in filters to enhance them before pa
 * **Dithering**: Reduces the number of colors in the image while creating the illusion of more colors by scattering pixels.
 * **Sepia Tone**: Applies a reddish-brown tint to the image, giving it an antique, vintage look.
 * **Emboss**: Adds a raised, three-dimensional effect to your image.
+* **Watercolor**: Smooth, painterly effect with soft edges, simulating watercolor painting.
 
 ### Smoothing & Sharpening Filters
 Fine-tune your image with smoothing filters to adjust its clarity and smoothness. Options include:
@@ -66,5 +83,7 @@ A dedicated form that displays an accurate estimated painting time before it eve
 | **PaletteOverlayToggle** | `F10` | Toggles the palette selection overlay to define the color palette area. |
 | **Start/Pause** | `F11` | Starts or pauses the painting process. |
 | **Stop** | `Escape` | Immediately stops the painting process. |
+| **Resume On Click** | `F5` | Click a point on the canvas with your image loaded, and the paint session will resume from that row with the correct palette color. |
 
 Hotkeys are configurable in the settings window.
+
