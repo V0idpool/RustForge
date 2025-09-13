@@ -26,6 +26,10 @@ Premium unlocks advanced features, helps fund ongoing development, and gives you
 
 ## Features
 
+* **Load Recent Files**: Don't waste time searching for images! A new menu item now saves the last 10 used images, allowing you to quickly load them without having to re-select from your computer or enter a URL.
+
+* **Real-time Notifications**: Stay informed about your painting status with new toast notifications that appear in the top-right corner of the screen. You will now be notified when a paint session starts, pauses, or stops.
+
 ### Multiple Painting Methods
 Choose from several methods to transfer your image to the canvas, each with a unique style:
 
