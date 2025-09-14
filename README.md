@@ -8,6 +8,11 @@ RustForge takes any image, automatically converts it to the closest Rust color p
 
 ---
 
+### **Join the RustForge Discord for Support:**
+https://discord.gg/R4bR9JwAfv
+
+---
+
 ## Premium Access
 
 Premium unlocks advanced features, helps fund ongoing development, and gives you early access to new tools before the general public.
