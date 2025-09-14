@@ -1,5 +1,6 @@
 # RustForge
-<img width="1536" height="1024" alt="rustforge" src="https://github.com/user-attachments/assets/fa5b40f0-7387-49a5-95a1-47e23ddbaaa1" />
+
+<img width="1536" height="1024" alt="RFBanner" src="https://github.com/user-attachments/assets/bbef19a5-3ef2-45f5-bd04-0616c7e4e6d5" />
 
 RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 
