@@ -4,24 +4,32 @@
 
 RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 
-### Support Development
+You can support the development of **RustForge** and my other tools in two ways:
 
-☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
-
-⭐ Patreon (All Projects): [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
+| Platform | Benefit | Scope |
+| :---: | :--- | :--- |
+| ☕ **BuyMeACoffee** | Grants **Premium Access** instantly. | RustForge (One-Time) |
+| ⭐ **Patreon** | Grants **Premium Access** + exclusive updates. | All Voidpool Projects (Monthly) |
 
 ---
+☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
+⭐ Patreon: [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
+---
+
+## Premium Access & Early Builds
+
+Premium unlocks advanced features and helps fund ongoing development. Access is granted through either a BuyMeACoffee donation or by joining a specific Patreon tier.
+
+**💎 How to get Premium**:
+
+1.  **Donate ANY amount** via [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev).
+2.  **Subscribe** to the **🛠️ Early Access** tier or higher on Patreon.
+
 
 ### **Join the RustForge Discord for Support:**
 https://discord.gg/R4bR9JwAfv
 
 ---
-
-## Premium Access
-
-Premium unlocks advanced features, helps fund ongoing development, and gives you early access to new tools before the general public.
-
-**💎 How to get Premium**: Donate ANY amount via [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev), and you’ll receive Premium access as a thank-you.
 
 ### Premium Features
 
