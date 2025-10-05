@@ -4,24 +4,15 @@
 
 RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 
-You can support the development of **RustForge** and my other tools in two ways:
-
-| Platform | Benefit | Scope |
-| :---: | :--- | :--- |
-| ☕ **BuyMeACoffee** | Grants **Premium Access** instantly. | RustForge (One-Time) |
-| ⭐ **Patreon** | Grants **Premium Access** + exclusive updates. | All Voidpool Projects (Monthly) |
-
----
+### Support Development
 
 ☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
 
-⭐ Patreon: [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
-
----
+⭐ Patreon (All Projects & Early Access): [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
 
 ## Premium Access & Early Builds
 
-Premium unlocks advanced features and helps fund ongoing development. Access is granted through either a BuyMeACoffee donation or by joining a specific Patreon tier.
+Premium unlocks advanced features and helps fund ongoing development. Access is granted through either a BuyMeACoffee donation or by joining a specific Patreon tier (Patreon tiers offer Early Access builds and more).
 
 **💎 How to get Premium**:
 
