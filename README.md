@@ -5,7 +5,9 @@
 RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 
 ### Support Development
+
 ☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
+
 ⭐ Patreon (All Projects): [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
 ---
 
