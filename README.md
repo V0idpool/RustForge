@@ -41,6 +41,8 @@ https://discord.gg/R4bR9JwAfv
 
 * **Real-time Notifications**: Stay informed about your painting status with new toast notifications that appear in the top-right corner of the screen. You will now be notified when a paint session starts, pauses, or stops.
 
+* **Background Color Ignore**: You can now select a specific color to be **skipped entirely** during the painting process (e.g., white borders or solid backgrounds). This saves a significant amount of painting time by skipping unnecessary paint clicks. The time estimation feature reflects these savings!
+
 ### Multiple Painting Methods
 Choose from several methods to transfer your image to the canvas, each with a unique style:
 
@@ -60,6 +62,8 @@ Prepare your images with a variety of built-in filters to enhance them before pa
 * **Sepia Tone**: Applies a reddish-brown tint to the image, giving it an antique, vintage look.
 * **Emboss**: Adds a raised, three-dimensional effect to your image.
 * **Watercolor**: Smooth, painterly effect with soft edges, simulating watercolor painting.
+* **Line Art**: Converts the image to a high-contrast black/white sketch, preserving original dark lines and generating new lines based on contours. (Perfect to color in images yourself!)
+* **Grayscale**: Removes all color, converting the image to black, white, and shades of gray.
 
 ### Smoothing & Sharpening Filters
 Fine-tune your image with smoothing filters to adjust its clarity and smoothness. Options include:
