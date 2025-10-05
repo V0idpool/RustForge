@@ -9,6 +9,7 @@ RustForge takes any image, automatically converts it to the closest Rust color p
 ☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
 
 ⭐ Patreon (All Projects): [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
+
 ---
 
 ### **Join the RustForge Discord for Support:**
