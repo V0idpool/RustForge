@@ -86,6 +86,7 @@ A dedicated form that displays an accurate estimated painting time before it eve
 
 1.  **Load an Image**: Use the main RustForge window to load the image you wish to paint by clicking "Load Image...".
 2.  **Capture Your Regions**:
+    (Press **Enter** after setting your Canvas area, and Palette area to save)
     * **Palette**: Use the hotkey for "Capture Palette" to draw a box around the in-game color palette. This allows the application to sample the available colors. (ONLY CAPTURE THE COLOR PALETTE AREA)
     * **Canvas**: Use the hotkey for "Capture Canvas" to draw a box around the in-game canvas. This defines the area where the painting will take place.
 3.  **Configure Settings**: In the settings window, you can select your preferred paint method, apply various filters, and adjust the paint speed.
