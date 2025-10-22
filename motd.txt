@@ -1,4 +1,4 @@
-🔥 RustForge v1.9 is LIVE! Experience the full UI overhaul and new CIEDE2000 color engine!
-⭐️ Want premium features? Log in now for faster painting and priority support!
+🎨 Precision Painting! Switch to CIEDE2000 for the most perceptually accurate color matching in Rust.
+🔥 Want premium features? Donate now for Saving/Loading paint states, Painting Algorithm, and priority support!
 🔧 Troubleshooting? Join our Discord server for instant help and community resources.
-⭐ Enjoying the app? Hit the "Support Development" button and help us build RustForge 2.0!
+⭐ Enjoying RustForge? Join our Discord for help, or hit Support Development to help build the next big update!
