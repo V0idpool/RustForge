@@ -1,5 +1,6 @@
 # RustForge
-
+![RustForge](https://img.shields.io/badge/version-1.9-red)
+![Release](https://img.shields.io/badge/Release-10%2F22%2F2025-orange)
 <img width="1536" height="1024" alt="RFBanner" src="https://github.com/user-attachments/assets/bbef19a5-3ef2-45f5-bd04-0616c7e4e6d5" />
 
 RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
@@ -42,6 +43,14 @@ https://discord.gg/R4bR9JwAfv
 * **Real-time Notifications**: Stay informed about your painting status with new toast notifications that appear in the top-right corner of the screen. You will now be notified when a paint session starts, pauses, or stops.
 
 * **Background Color Ignore**: You can now select a specific color to be **skipped entirely** during the painting process (e.g., white borders or solid backgrounds). This saves a significant amount of painting time by skipping unnecessary paint clicks. The time estimation feature reflects these savings!
+  * Customizable Color Tolerance: Set a custom value to fine-tune how strictly RustForge ignores background-like colors when Background Color Ignore is active.
+  * Color Space Selection (RGB or CIEDE2000): Choose between Euclidean RGB for standard color matching, or CIEDE2000 for the most perceptually accurate color matching to the Rust palette.
+
+* **Transparency Threshold Setting**: Define a custom threshold for alpha transparency. Pixels that are more transparent than this value will be skipped entirely during the painting process.
+
+* **Discord Rich Presence**: Your painting status (Paused, Painting, Completed) and current job information will now be displayed in your Discord profile.
+
+* **Screenshot on Finish Toggle**: Automatically capture a screenshot of your finished painting once the session is complete.
 
 ### Multiple Painting Methods
 Choose from several methods to transfer your image to the canvas, each with a unique style:
