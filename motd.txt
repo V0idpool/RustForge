@@ -2,3 +2,4 @@
 🔥 Want premium features? Donate now for Saving/Loading paint states, Painting Algorithm, and priority support!
 🔧 Troubleshooting? Join our Discord server for instant help and community resources.
 ⭐ Enjoying RustForge? Join our Discord for help, or hit Support Development to help build the next big update!
+🧠 Future Feature Poll! Would you like to see AI-based image generation integrated into RustForge? Let us know on Discord!
