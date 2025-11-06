@@ -36,6 +36,10 @@ https://discord.gg/R4bR9JwAfv
 
 * **Session Load** – Quickly load a saved session and continue painting exactly where you left off.
 
+* **Integrated Image Editor** – No more needing external tools! You can now access an image editor directly within RustForge, featuring cropping and text overlay functionality to perfectly prepare your artwork before painting.
+
+* **Timelapse GIF Creator** – When enabled, this exciting premium feature automatically takes a series of timelapse screenshots during the painting process and compiles them into a timelapse GIF of your finished artwork. Also use the powerful editor to fine-tune your timelapse GIF before saving. You can now adjust the playback speed, skip frames, manually remove specific frames, and even customize the painting stats text that appears on the GIF.
+
 ## Features
 
 * **Load Recent Files**: Don't waste time searching for images! A new menu item now saves the last 10 used images, allowing you to quickly load them without having to re-select from your computer or enter a URL.
@@ -51,6 +55,13 @@ https://discord.gg/R4bR9JwAfv
 * **Discord Rich Presence**: Your painting status (Paused, Painting, Completed) and current job information will now be displayed in your Discord profile.
 
 * **Screenshot on Finish Toggle**: Automatically capture a screenshot of your finished painting once the session is complete.
+
+* **Dedicated Splash Screen:** A new splash form now elegantly handles the loading process for all necessary libraries and settings, providing a smoother startup experience.
+
+* **Advanced Error Logging & Support Integration:** Enhanced, advanced error logging is now enabled, writing all errors to RF_Logs.txt. Also gives the option to instantly open the Discord support channel, making it easy to drag-and-drop your log file directly into your support post for developer troubleshooting.
+
+* **Mouse Click Delay Setting:** Users can now precisely control the delay for automated mouse movements (e.g., brush selection) to ensure reliability on various systems and server conditions.
+
 
 ### Multiple Painting Methods
 Choose from several methods to transfer your image to the canvas, each with a unique style:
