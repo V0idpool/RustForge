@@ -1,7 +1,7 @@
 # RustForge
-![RustForge](https://img.shields.io/badge/version-1.9-red)
+![RustForge](https://img.shields.io/badge/version-2.0-red)
 ![Release](https://img.shields.io/badge/Release-10%2F22%2F2025-orange)
-<img width="1536" height="1024" alt="RFBanner" src="https://github.com/user-attachments/assets/bbef19a5-3ef2-45f5-bd04-0616c7e4e6d5" />
+<img width="1024" height="683" alt="RfSplash" src="https://github.com/user-attachments/assets/7de295b6-079c-44f0-8d9f-c8421632a679" />
 
 RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 
