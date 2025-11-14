@@ -9,16 +9,13 @@ RustForge takes any image, automatically converts it to the closest Rust color p
 
 ☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
 
-⭐ Patreon (All Projects & Early Access): [https://www.patreon.com/cw/voidpool](https://www.patreon.com/cw/voidpool)
-
 ## Premium Access & Early Builds
 
-Premium unlocks advanced features and helps fund ongoing development. Access is granted through either a BuyMeACoffee donation or by joining a specific Patreon tier (Patreon tiers offer Early Access builds and more).
+Premium unlocks advanced features and helps fund ongoing development. Access is granted through BuyMeACoffee donations or by joining a BMAC membership tier (Membership tiers offer Early Access builds and more).
 
 **💎 How to get Premium**:
 
-1.  **Donate ANY amount** via [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev).
-2.  **Subscribe** to the **🛠️ Early Access** tier or higher on Patreon.
+**Donate ANY amount** via [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev)
 
 
 ### **Join the RustForge Discord for Support:**
