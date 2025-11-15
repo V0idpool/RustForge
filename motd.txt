@@ -13,15 +13,13 @@
 🖼️ TIP: Capture & Save! Enable Screenshot on Finish to automatically capture your completed artwork!
 📐 TIP: Keep it proportional! Toggle 'Maintain Aspect Ratio' to prevent image stretching on any canvas size.
 😴 TIP: Automate your workflow! Use the Auto-Close Rust on Completion feature for a set-it-and-forget-it experience.
-👑 Go Premium Now! Unlock the VoidWeave Algorithm, Resume Point (F5), and Session Save/Load.
-💸 Get Premium Access: Donate ANY amount via Buy Me a Coffee or join the 🛠️ Early Access Patreon tier!
+👑 Go Premium Now! Unlock the Adaptive Palette, VoidWeave Algorithm, Resume Point (F5), and Session Save/Load.
+💸 Get Premium Access: Donate ANY amount via Buy Me a Coffee or join the 🛠️ Early Access tier!
 🎯 Never Lose Progress! Premium access is your safety net—use F5 to resume instantly after any disconnect.
 ☕ Support Development! Unlock Premium features and directly fund the next big RustForge updates!
 🤝 Discord Integration is live! Connect your Discord account to RustForge and show off your info right in the main window.
-✨ RustForge 2.0 is almost here! Get ready for the biggest painting update ever. Image editing, GIFs, and more!
-👑 The next RustForge update is packed with Premium-tier power. Start planning your best painted artwork now!
-📸 COMING SOON: Timelapses are ALMOST here for Premium users! Document your masterpiece creation and share your process like never before SOON!
-🎞️ COMING SOON: Go beyond the canvas with the new Premium GIF Editor. Customize speed, skip frames, and perfect your painting showcase!
-🔥 The ultimate Premium combo is coming: Timelapse Screenshots + the all-new GIF Editor. Your workflow just got a serious upgrade.
+📸 Timelapses are here for Premium users! Document your masterpiece creation and share your process like never before!
+🎞️ Go beyond the canvas with the new Premium GIF Editor. Customize speed, skip frames, and perfect your painting showcase!
+🔥 The ultimate Premium combo: Timelapse Screenshots + the all-new GIF Editor. Your workflow just got a serious upgrade.
 🐛 Got a bug? Advanced Error Logging is coming! Get one-click support by sending your log file directly to our Discord.
-✏️ COMING SOON: New image editing power! Crop, add text, and refine your source image before the paint job even starts.
+✏️ New image editing power! Crop, add text, and refine your source image before the paint job even starts.
