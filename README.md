@@ -3,7 +3,7 @@
 ![Release](https://img.shields.io/badge/Release-10%2F22%2F2025-orange)
 <img width="1024" height="683" alt="RfSplash" src="https://github.com/user-attachments/assets/7de295b6-079c-44f0-8d9f-c8421632a679" />
 
-RustForge takes any image, automatically converts it to the closest Rust color palette, and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
+RustForge takes any image, automatically converts it to the closest Rust color palette, or can utilize the new adaptive palette (supports up to 512 colors) and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 
 ### Support Development
 
@@ -23,9 +23,13 @@ https://discord.gg/R4bR9JwAfv
 
 ---
 
+    
 ### Premium Features
 
 * **VoidWeave Algorithm** – The most advanced painting method for stunning, detailed, high-fidelity images. Scans the image, and blends pixels as it paints.
+
+* **Adaptive Palette**
+    * Uses the new Hex Color codes and an Adaptive Palette system, providing more vibrant and accurate tones, as well as multiple skin tones, while maintaining optimized painting performance.
 
 * **Resume Painting on Click**: Press the Resume On Click Hotkey: **F5** and click a point on the canvas with your image loaded, and the paint session will resume from that row with the correct palette color. No more redoing entire paintings if you die, disconnect, or crash mid-paint.
 
@@ -35,7 +39,10 @@ https://discord.gg/R4bR9JwAfv
 
 * **Integrated Image Editor** – No more needing external tools! You can now access an image editor directly within RustForge, featuring cropping and text overlay functionality to perfectly prepare your artwork before painting.
 
-* **Timelapse GIF Creator** – When enabled, this exciting premium feature automatically takes a series of timelapse screenshots during the painting process and compiles them into a timelapse GIF of your finished artwork. Also use the powerful editor to fine-tune your timelapse GIF before saving. You can now adjust the playback speed, skip frames, manually remove specific frames, and even customize the painting stats text that appears on the GIF.
+* **Timelapse GIF Creator & Editor** – When enabled, this exciting premium feature automatically takes a series of timelapse screenshots during the painting process and compiles them into a timelapse GIF of your finished artwork!
+
+* **Timelapse GIF Creator & Editor** – When enabled, this exciting premium feature automatically takes a series of timelapse screenshots during the painting process and compiles them into a timelapse GIF of your finished artwork!
+
 
 ## Features
 
