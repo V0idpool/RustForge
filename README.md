@@ -25,7 +25,7 @@ https://discord.gg/R4bR9JwAfv
 ---
 
     
-### Premium Features
+## Premium Features
 
 * **VoidWeave Algorithm** – The most advanced painting method for stunning, detailed, high-fidelity images. Scans the image, and blends pixels as it paints.
 
