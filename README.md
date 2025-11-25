@@ -69,6 +69,7 @@ https://discord.gg/R4bR9JwAfv
 
 
 ## Multiple Painting Methods
+
 Choose from several methods to transfer your image to the canvas, each with a unique style:
 
 * **VoidWeave Algorithm(Premium)**: The default and most advanced method. It's designed for complex, detailed images and provides the most accurate color representation and highest quality final image.
@@ -76,6 +77,7 @@ Choose from several methods to transfer your image to the canvas, each with a un
 * **Crayon Eater**: A distinct painting style that adds character to your final image.
 
 ### Image Filters
+
 Prepare your images with a variety of built-in filters to enhance them before painting.
 
 * **None**: Applies no artistic filter, using the original image as a base.
@@ -91,6 +93,7 @@ Prepare your images with a variety of built-in filters to enhance them before pa
 * **Grayscale**: Removes all color, converting the image to black, white, and shades of gray.
 
 ### Smoothing & Sharpening Filters
+
 Fine-tune your image with smoothing filters to adjust its clarity and smoothness. Options include:
 
 * **None**: Applies no smoothing or sharpening.
@@ -101,9 +104,11 @@ Fine-tune your image with smoothing filters to adjust its clarity and smoothness
 * **Sharpen**: Enhances the edges of an image, making it appear sharper and more defined. The available size is: `3x3`.
 
 ### Configurable Hotkeys
+
 Customize hotkeys for key actions directly from the user settings window, including starting, pausing, and stopping the painting process.
 
 ### Accurate Painting Time Estimation
+
 A dedicated form that displays an accurate estimated painting time before it even begins.
 ---
 
