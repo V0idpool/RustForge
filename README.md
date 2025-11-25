@@ -68,7 +68,7 @@ https://discord.gg/R4bR9JwAfv
 * **Mouse Click Delay Setting:** Users can now precisely control the delay for automated mouse movements (e.g., brush selection) to ensure reliability on various systems and server conditions.
 
 
-### Multiple Painting Methods
+## Multiple Painting Methods
 Choose from several methods to transfer your image to the canvas, each with a unique style:
 
 * **VoidWeave Algorithm(Premium)**: The default and most advanced method. It's designed for complex, detailed images and provides the most accurate color representation and highest quality final image.
