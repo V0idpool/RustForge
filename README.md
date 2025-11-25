@@ -76,7 +76,7 @@ Choose from several methods to transfer your image to the canvas, each with a un
 * **Scanline**: A methodical, line-by-line painting method.
 * **Crayon Eater**: A distinct painting style that adds character to your final image.
 
-### Image Filters
+## Image Filters
 
 Prepare your images with a variety of built-in filters to enhance them before painting.
 
@@ -92,7 +92,7 @@ Prepare your images with a variety of built-in filters to enhance them before pa
 * **Line Art**: Converts the image to a high-contrast black/white sketch, preserving original dark lines and generating new lines based on contours. (Perfect to color in images yourself!)
 * **Grayscale**: Removes all color, converting the image to black, white, and shades of gray.
 
-### Smoothing & Sharpening Filters
+## Smoothing & Sharpening Filters
 
 Fine-tune your image with smoothing filters to adjust its clarity and smoothness. Options include:
 
@@ -103,7 +103,7 @@ Fine-tune your image with smoothing filters to adjust its clarity and smoothness
 * **LowPass**: A filter that smooths an image by reducing high-frequency details (like noise and sharp edges). Available sizes include: `3x3`, `5x5`.
 * **Sharpen**: Enhances the edges of an image, making it appear sharper and more defined. The available size is: `3x3`.
 
-### Configurable Hotkeys
+## Configurable Hotkeys
 
 Customize hotkeys for key actions directly from the user settings window, including starting, pausing, and stopping the painting process.
 
