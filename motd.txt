@@ -1,5 +1,5 @@
 🎨 Precision Painting! Switch to CIEDE2000 for the most perceptually accurate color matching in Rust.
-🔥 Want premium features? Donate now for Saving/Loading paint states, VoidWeave Painting Algorithm, and priority support!
+🔥 Want premium features? Purchase the Premium DLC on Steam now for Saving/Loading paint states, VoidWeave Painting Algorithm, and priority support!
 🔧 Troubleshooting? Join our Discord server for instant help and community resources.
 ⭐ Enjoying RustForge? Join our Discord for help, or hit Support Development to help build the next big update!
 🧠 Future Feature Poll! Would you like to see AI-based image generation integrated into RustForge? Let us know on Discord!
@@ -14,7 +14,7 @@
 📐 TIP: Keep it proportional! Toggle 'Maintain Aspect Ratio' to prevent image stretching on any canvas size.
 😴 TIP: Automate your workflow! Use the Auto-Close Rust on Completion feature for a set-it-and-forget-it experience.
 👑 Go Premium Now! Unlock the Adaptive Palette, VoidWeave Algorithm, Resume Point (F5), and Session Save/Load.
-💸 Get Premium Access: Donate ANY amount via Buy Me a Coffee or join the 🛠️ Early Access tier!
+💸 Get Premium Access: Purchase the Premium DLC for RustForge to get access to all Premium features today!
 🎯 Never Lose Progress! Premium access is your safety net—use F5 to resume instantly after any disconnect.
 ☕ Support Development! Unlock Premium features and directly fund the next big RustForge updates!
 🤝 Discord Integration is live! Connect your Discord account to RustForge and show off your info right in the main window.
