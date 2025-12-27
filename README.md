@@ -6,17 +6,13 @@
 RustForge takes any image, automatically converts it to the closest Rust color palette, or can utilize the new adaptive palette (supports up to 512 colors) and paints it directly onto a sign in-game. It’s perfect for adding custom, high-quality art to your base without spending hours on it.
 ### Official Website [https://rustforge.us/](https://rustforge.us/)
 
-### Support Development
-
-☕ BuyMeACoffee: [https://buymeacoffee.com/rustforgedev](https://buymeacoffee.com/rustforgedev)
-
 ## Premium Access & Early Builds
 
-Premium unlocks advanced features and helps fund ongoing development. Access is granted through BuyMeACoffee donations or by joining a BMAC membership tier (Membership tiers offer Early Access builds and more).
+Premium DLC unlocks advanced features and helps fund ongoing development. Access is granted through purchasing the Premium DLC via the Steam Store.
 
 **💎 How to get Premium**:
 
-**Donate ANY amount** via [Buy Me a Coffee](https://buymeacoffee.com/rustforgedev)
+**Purchase Premium DLC** via [Steam](https://store.steampowered.com/app/4266530)
 
 
 ### **Join the RustForge Discord for Support:**
