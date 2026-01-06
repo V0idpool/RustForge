@@ -1,22 +1,20 @@
-🎨 Precision Painting! Switch to CIEDE2000 for the most perceptually accurate color matching in Rust.
 🔥 Want premium features? Purchase the Premium DLC on Steam now for Saving/Loading paint states, VoidWeave Painting Algorithm, and priority support!
 🔧 Troubleshooting? Join our Discord server for instant help and community resources.
-⭐ Enjoying RustForge? Join our Discord for help, or hit Support Development to help build the next big update!
+⭐ Enjoying RustForge? Join our Discord for help and more!
 🧠 Future Feature Poll! Would you like to see AI-based image generation integrated into RustForge? Let us know on Discord!
 🖼️ TIP: Create sketches! Try the Line Art Filter to instantly convert images into blueprint/coloring book style line work.
 👁️ TIP: Pixel-Perfect! Use the new Screen Eyedropper to accurately ignore background colors.
 🎮 Flex your status! RustForge now shows your painting progress directly on Discord Rich Presence.
 🚀 Go Turbo! Try the Experimental Turbo Mode for the fastest possible painting speed. Use with caution!
-💾 Save Your Progress! Premium users can Save & Load painting sessions, a lifesaver for long art pieces!
-🎯 Resuming is easy! Premium users hit F5 to Resume Painting instantly after a crash or disconnect.
-⚙️ The gold standard! Upgrade to Premium for the VoidWeave Algorithm for hyper-detailed, high-fidelity art.
+💾 Save Your Progress! Steam Premium DLC users can Save & Load painting sessions, a lifesaver for long art pieces!
+🎯 Resuming is easy! Steam Premium DLC user can hit F5 to Resume Painting instantly after a crash or disconnect.
+⚙️ The gold standard! Upgrade to the Steam Premium DLC for the VoidWeave Algorithm for hyper-detailed, high-fidelity art.
 🖼️ TIP: Capture & Save! Enable Screenshot on Finish to automatically capture your completed artwork!
 📐 TIP: Keep it proportional! Toggle 'Maintain Aspect Ratio' to prevent image stretching on any canvas size.
 😴 TIP: Automate your workflow! Use the Auto-Close Rust on Completion feature for a set-it-and-forget-it experience.
-👑 Go Premium Now! Unlock the Adaptive Palette, VoidWeave Algorithm, Resume Point (F5), and Session Save/Load.
-💸 Get Premium Access: Purchase the Premium DLC for RustForge to get access to all Premium features today!
+👑 Go Premium Now via the Steam Store! Unlock the Adaptive Palette, VoidWeave Algorithm, Resume Point (F5), and Session Save/Load.
+💸 Get Premium Access: Purchase the Premium DLC for RustForge on Steam to get access to all Premium features today!
 🎯 Never Lose Progress! Premium access is your safety net—use F5 to resume instantly after any disconnect.
-☕ Support Development! Unlock Premium features and directly fund the next big RustForge updates!
 🤝 Discord Integration is live! Connect your Discord account to RustForge and show off your info right in the main window.
 📸 Timelapses are here for Premium users! Document your masterpiece creation and share your process like never before!
 🎞️ Go beyond the canvas with the new Premium GIF Editor. Customize speed, skip frames, and perfect your painting showcase!
