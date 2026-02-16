@@ -7,20 +7,19 @@
 🎮 Flex your status! RustForge now shows your painting progress directly on Discord Rich Presence.
 🚀 Go Turbo! Try the Experimental Turbo Mode for the fastest possible painting speed. Use with caution!
 💾 Save Your Progress! Steam Premium DLC users can Save & Load painting sessions, a lifesaver for long art pieces!
-🎯 Resuming is easy! Steam Premium DLC user can hit F5 to Resume Painting instantly after a crash or disconnect.
-⚙️ The gold standard! Upgrade to the Steam Premium DLC for the VoidWeave Algorithm for hyper-detailed, high-fidelity art.
+🎯 Resuming after a death or crash is easy! Steam Premium DLC users have access to the VoidWatch Sentinel Monitoring feature, this saves your painting progress so you never lose a painting to a death, crash, or server timeout ever again!
+⚙️ The gold standard! Use the FREE VoidWeave Algorithm for hyper-detailed, high-fidelity art.
 🖼️ TIP: Capture & Save! Enable Screenshot on Finish to automatically capture your completed artwork!
 📐 TIP: Keep it proportional! Toggle 'Maintain Aspect Ratio' to prevent image stretching on any canvas size.
 😴 TIP: Automate your workflow! Use the Auto-Close Rust on Completion feature for a set-it-and-forget-it experience.
-👑 Go Premium Now via the Steam Store! Unlock the Adaptive Palette, VoidWeave Algorithm, Resume Point (F5), and Session Save/Load.
+👑 Go Premium Now via the Steam Store! Unlock the Adaptive Palette, AutoSaves on crash and deaths, Resume Point (F5), Session Save/Load, and loads more...
 💸 Get Premium Access: Purchase the Premium DLC for RustForge on Steam to get access to all Premium features today!
-🎯 Never Lose Progress! Premium access is your safety net—use F5 to resume instantly after any disconnect.
+🎯 Never Lose Progress! Premium access is your safety net, use F5 to resume instantly after any disconnect.
 🤝 Discord Integration is live! Connect your Discord account to RustForge and show off your info right in the main window.
 📸 Timelapses are here for Premium users! Document your masterpiece creation and share your process like never before!
-🎞️ Go beyond the canvas with the new Premium GIF Editor. Customize speed, skip frames, and perfect your painting showcase!
-🔥 The ultimate Premium combo: Timelapse Screenshots + the all-new GIF Editor. Your workflow just got a serious upgrade.
-🐛 Got a bug? Advanced Error Logging is coming! Get one-click support by sending your log file directly to our Discord.
-✏️ New image editing power! Crop, add text, and refine your source image before the paint job even starts.
-🎉 HUGE NEWS: RustForge is coming to Steam! We've paid the Steamworks fee and are on the road to a full release!
+🎞️ Go beyond the canvas with the new Premium MP4 Editor. Customize speed, overlay text (optional), add music, and perfect your painting showcase!
+🔥 The ultimate Premium Feature: Timelapse MP4's and an integrated editor. Your workflow just got a serious upgrade.
+🐛 Got a bug? Click "Support" at the top of RustForge and get one-click support by sending your log file directly to our Discord.
+✏️ New image editing power! Crop, add text, and refine your source image before the paint job even starts with additional filter strength and other filter settings.
+🎉 HUGE NEWS: Steam Workshop Support is now here! Check out the Official RustForge Steam Workshop page and submit, or subscribe to images other users have submitted and easily load it in the app!
 🙏 Thank you, Donors! Your support made our Steamworks fee payment possible! We couldn't have done it without you!!!
-🗓️ The Countdown Begins!January 27th is our official Steam launch. Get ready!
