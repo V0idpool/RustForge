@@ -1,5 +1,5 @@
 # RustBind Rust Console Commands Reference
-![Tool](https://img.shields.io/badge/Utility-RustBinder-blue)
+![Tool](https://img.shields.io/badge/Utility-RustBind-blue)
 ![Last Updated](https://img.shields.io/badge/Updated-March%202026-brightgreen)
 
 This is a comprehensive, alphabetized reference for Rust console commands (F1) used for player optimization, server administration, and cinematic tools.
