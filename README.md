@@ -16,7 +16,7 @@ Premium DLC unlocks advanced features and helps fund ongoing development. Access
 
 
 ### **Join the RustForge Discord for Support:**
-https://discord.gg/R4bR9JwAfv
+[https://discord.gg/R4bR9JwAfv](https://discord.gg/tfwf9Qr7rG)
 
 ---
 
