@@ -1,13 +1,13 @@
-🔥 Want premium features? Purchase the Premium DLC on Steam now for Saving/Loading paint states, VoidWeave Painting Algorithm, and priority support!
+🔥 Want premium features? Purchase the Premium DLC on Steam now for Autosaves, Saving/Loading paint states, VoidWeave Painting Algorithm, loads more, and priority support!
 🔧 Troubleshooting? Join our Discord server for instant help and community resources.
 ⭐ Enjoying RustForge? Join our Discord for help and more!
-🧠 Future Feature Poll! Would you like to see AI-based image generation integrated into RustForge? Let us know on Discord!
 🖼️ TIP: Create sketches! Try the Line Art Filter to instantly convert images into blueprint/coloring book style line work.
-👁️ TIP: Pixel-Perfect! Use the new Screen Eyedropper to accurately ignore background colors.
+👁️ TIP: Pixel-Perfect! Use the Screen Eyedropper to accurately ignore background colors.
+🎉 TIP: Set your End of Line Delay, and Precision Timing delays as low as 1, with little to no reduction in painting quality!
 🎮 Flex your status! RustForge now shows your painting progress directly on Discord Rich Presence.
-🚀 Go Turbo! Try the Experimental Turbo Mode for the fastest possible painting speed. Use with caution!
-💾 Save Your Progress! Steam Premium DLC users can Save & Load painting sessions, a lifesaver for long art pieces!
-🎯 Resuming after a death or crash is easy! Steam Premium DLC users have access to the VoidWatch Sentinel Monitoring feature, this saves your painting progress so you never lose a painting to a death, crash, or server timeout ever again!
+🚀 Go MAX SPEED! Try the Experimental Max Speed Mode for the fastest possible painting speed. Use with caution!
+💾 Save Your Progress! Steam Premium DLC users can utilize Autosaves, and Save & Load painting sessions, a lifesaver for long art pieces!
+🎯 Resuming after a death or crash is easy! Steam Premium DLC users have access to the VoidWatch Autosave feature, this saves your painting progress so you never lose a painting to a death, crash, or server timeout ever again!
 ⚙️ The gold standard! Use the FREE VoidWeave Algorithm for hyper-detailed, high-fidelity art.
 🖼️ TIP: Capture & Save! Enable Screenshot on Finish to automatically capture your completed artwork!
 📐 TIP: Keep it proportional! Toggle 'Maintain Aspect Ratio' to prevent image stretching on any canvas size.
